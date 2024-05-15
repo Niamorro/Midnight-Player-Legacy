@@ -30,7 +30,7 @@ Midnight Player is a modern, feature-rich audio player designed for a seamless m
 1. Download the `.deb` package from the [Releases](https://github.com/Niamorro/Midnight-Player/releases) section.
 2. Install it using the following commands:
     ```bash
-    sudo dpkg -i midnight-player_<version>.deb
+    sudo dpkg -i midnight-player_1.0-1_amd64.deb 
     sudo apt-get install -f
     ```
 
