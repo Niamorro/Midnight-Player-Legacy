@@ -6,6 +6,8 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
+![template](https://github.com/Niamorro/Midnight-Player/assets/123011549/9d0c203c-c542-4f8a-bf2b-7ebe42730397)
+
 Midnight Player is a modern, feature-rich audio player designed for a seamless music playback experience. It provides functionalities like playlist management, playback speed adjustment, and a dark/light theme.
 
 ## Features
@@ -117,8 +119,10 @@ Midnight Player is a modern, feature-rich audio player designed for a seamless m
 ## Screenshots
 
 ### Dark Theme
+<img width="959" alt="DarkThemeScreenshotpng" src="https://github.com/Niamorro/Midnight-Player/assets/123011549/f9470176-0f61-40ed-bf9a-4e884b43eae3">
 
 ### Light Theme
+<img width="957" alt="LightThemeScreenshotpng" src="https://github.com/Niamorro/Midnight-Player/assets/123011549/a505fddb-0729-47ef-9092-b8c751ae87dd">
 
 ## Contributing
 
