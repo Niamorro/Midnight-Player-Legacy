@@ -16,7 +16,7 @@ Midnight Player is a modern, feature-rich audio player designed for a seamless m
 - **Playlist Management**: Create and manage playlists with ease.
 - **Playback Speed Control**: Adjust playback speed between 0.5x and 2x.
 - **Dark and Light Themes**: Choose between dark and light themes for an optimal UI experience.
-- **Cross-Platform**: Available for Windows, Ubuntu (DEB), and RPM-based Linux distributions.
+- **Cross-Platform**: Available for Windows, Ubuntu (DEB) Linux distributions.
 
 ## Installation
 
@@ -32,14 +32,6 @@ Midnight Player is a modern, feature-rich audio player designed for a seamless m
     ```bash
     sudo dpkg -i midnight-player_1.0-1_amd64.deb 
     sudo apt-get install -f
-    ```
-
-### RPM-based Linux (RPM)
-
-1. Download the `.rpm` package from the [Releases](https://github.com/Niamorro/Midnight-Player/releases) section.
-2. Install it using the following command:
-    ```bash
-    sudo rpm -i midnight-player-<version>.rpm
     ```
 
 ### From Source
