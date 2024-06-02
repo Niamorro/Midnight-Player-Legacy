@@ -8,7 +8,7 @@
 
 ![template](https://github.com/Niamorro/Midnight-Player/assets/123011549/9d0c203c-c542-4f8a-bf2b-7ebe42730397)
 
-Midnight Player is a modern, feature-rich audio player designed for a seamless music playback experience. It provides functionalities like playlist management, playback speed adjustment, and a dark/light theme.
+Midnight Player is a modern python audio player. It provides functionalities like playlist management, playback speed adjustment, and a dark/light theme.
 
 ## Features
 
