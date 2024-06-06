@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License: GPLv3](https://img.shields.io/badge/License-GPLv3-red.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 ![template](https://github.com/Niamorro/Midnight-Player/assets/123011549/9d0c203c-c542-4f8a-bf2b-7ebe42730397)
 
