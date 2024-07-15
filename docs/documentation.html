@@ -1,0 +1,97 @@
+<!-- documentation.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midnight Player - Documentation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="documentation.html">Documentation</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Features</h2>
+            <ul>
+                <li>Audio Playback: Supports various audio formats including MP3, WAV, FLAC, OGG, M4A, AAC, and WMA.</li>
+                <li>Playlist Management: Create and manage playlists with ease.</li>
+                <li>Playback Speed Control: Adjust playback speed between 0.5x and 2x.</li>
+                <li>Dark and Light Themes: Choose between dark and light themes for an optimal UI experience.</li>
+                <li>Cross-Platform: Available for Windows, Ubuntu (DEB) Linux distributions.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Installation</h2>
+            <h3>Windows Installer (EXE)</h3>
+            <ol>
+                <li>Download the installer from the <a href="https://github.com/Niamorro/Midnight-Player/releases">Releases</a> section.</li>
+                <li>Run the installer and follow the on-screen instructions.</li>
+            </ol>
+
+            <h3>Ubuntu (DEB)</h3>
+            <ol>
+                <li>Download the <code>.deb</code> package from the <a href="https://github.com/Niamorro/Midnight-Player/releases">Releases</a> section.</li>
+                <li>Install it using the following commands:
+                    <pre>
+sudo dpkg -i midnight-player_1.0-1_amd64.deb 
+sudo apt-get install -f
+                    </pre>
+                </li>
+            </ol>
+
+            <h3>From Source</h3>
+            <ol>
+                <li>Ensure you have Python 3.7+ and pip installed.</li>
+                <li>Clone the repository:
+                    <pre>
+git clone https://github.com/Niamorro/Midnight-Player
+cd Midnight-Player
+                    </pre>
+                </li>
+                <li>Install the required packages:
+                    <pre>pip install -r requirements.txt</pre>
+                </li>
+                <li>Run the application:
+                    <pre>python main.py</pre>
+                </li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>Usage</h2>
+            <ol>
+                <li>Launch the application.</li>
+                <li>Use the <code>File</code> menu to open audio files or folders.</li>
+                <li>Create and manage playlists via the <code>Add Playlist</code> and <code>Remove Playlist</code> options.</li>
+                <li>Control playback speed using the dropdown menu.</li>
+                <li>Adjust the volume and navigate through tracks using the sliders.</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>Screenshots</h2>
+            <div class="screenshot">
+                <img src="images/dark-theme.png" alt="Dark Theme" class="fade-in">
+                <p>Dark Theme</p>
+            </div>
+            <div class="screenshot">
+                <img src="images/light-theme.png" alt="Light Theme" class="fade-in">
+                <p>Light Theme</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Midnight Player. All rights reserved.</p>
+    </footer>
+</body>
+</html>
