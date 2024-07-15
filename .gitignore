@@ -1,0 +1,7 @@
+**/Versions Archive/
+**/Assets/
+**/.venv/
+**/*.exe
+**/*.tar.xz
+**/__pycache__/
+*.pyc
