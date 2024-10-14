@@ -1,5 +1,5 @@
-PySide6
-sounddevice
-pyqtdarktheme
-numpy
-mutagen
+PySide6==6.7.2
+sounddevice==0.5.1
+pyqtdarktheme==2.1.0
+numpy==2.1.2
+mutagen==1.47.0
